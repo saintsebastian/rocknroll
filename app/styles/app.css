@@ -30,3 +30,28 @@
 .band-link.active .pointer {
   display: block;
 }
+
+.new-band {
+  width: 82%;
+}
+
+.new-band-button {
+  float: right;
+  padding: 3px 10px;
+}
+
+.new-song {
+  width: 50%;
+}
+.new-song-button {
+  margin-left: 20px;
+}
+
+
+.rating-panel {
+  float: right;
+}
+
+a.star-rating {
+  color: inherit; text-decoration: none;
+}
