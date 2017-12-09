@@ -30,6 +30,7 @@ export default Ember.Route.extend({
     });
     let pearlJam = Band.create({
       name: "Pearl Jam",
+      description: 'Pearl Jam is an American rock band, formed in Seattle, Washington in 1990.',
       songs: [yellowLedbetter, daughter]
     });
     let fooFighters = Band.create({
